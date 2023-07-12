@@ -18,13 +18,13 @@ Follow these steps to utilize the project repository:
 
 Before getting started, ensure that you have the following:
 
-- Unity installed on your machine (version X.X.X or higher).
+- Unity installed on your machine (version 2021.3.9f1 LTS or higher).
 - A Google Play Developer account.
 - Basic knowledge of Unity and C# programming.
 
 ### Step-by-Step Guide
 
-1. **Clone the repository**: Clone the repository to your local machine using the following command: git clone https://github.com/your-username/your-repository.git
+1. **Clone the repository**: https://github.com/promiseudomah/Unity-IAP-Shop-Demo.git
 
 2. **Open the project**: Open the cloned repository in Unity by selecting **File → Open Project** and navigating to the project folder.
 
