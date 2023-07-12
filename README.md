@@ -1,4 +1,4 @@
-# Unity IAP Shop 🛒🎮
+# Unity IAP Shop Demo 🛒🎮
 
 This project is a Unity game with an integrated Unity IAP (In-App Purchases) system. It demonstrates a virtual shop where you can explore and buy different in-game products. You can use this project as a template and easily adjust the settings and keys to fit your own requirements. It serves as a helpful resource to understand how IAP systems work in Unity. The shop connects to your catalog linked with the Google Play Store Developer Console, ensuring a smooth and convenient purchasing experience.
 
